@@ -1,3 +1,13 @@
+# Tommy's First CS193 Homework
+- I like the design of the course which is about giving CS students valuable resources.
+- I am happy that there are no exams and no final exam.
+- I like that there is going to be plenty of time to get homework assignments done.
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
